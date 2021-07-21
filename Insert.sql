@@ -1,0 +1,1 @@
+Insert into TempTestRepos Values('Ram', 'Chennai');
